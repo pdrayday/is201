@@ -1,0 +1,39 @@
+
+
+
+.header{
+    top: 0px;
+    left: 0px;
+    height: 40vh;
+    width: 100vw;
+    background-image: url("../images/grassy.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.body{
+     margin-top: 0px;
+     height: auto;
+     width: auto;
+     background-color: rgb(255, 255, 255);
+    }
+
+.footer{
+    margin-top: 0px;
+    height: auto;
+    left: 0px;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+}
+    
+
+.purple
+{
+    color: white;
+}
+
+.fancy{
+    font-style: italic;
+}
